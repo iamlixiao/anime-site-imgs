@@ -1,4 +1,5 @@
 anime-site-imgs
 ===============
-
-To backup images of anime sites in case they are down.
+Sites up, sites down.
+Sites change, contents gone.
+While it's up to the site owners, I want to keep the images in case I want to see them again.
